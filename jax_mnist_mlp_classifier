@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "jax_mnist_mlp_classifier",
+      "name": "jax_mnist_mlp_classifier.ipynb",
       "provenance": [],
       "include_colab_link": true
     },
